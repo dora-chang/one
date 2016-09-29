@@ -1,0 +1,14 @@
+{
+    "name": "dora19/one",
+    "description": "ceshia",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "chang",
+            "email": "2575923551@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
